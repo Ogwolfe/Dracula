@@ -1,0 +1,25 @@
+body {
+    margin: 0 96px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 14px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+
+.section-1-content {
+    display: flex;
+}
+
+.section-2-content {
+    display: flex;
+}
